@@ -1,0 +1,2 @@
+# Tệp log bot Locket Gold
+# Tự động ghi lại lịch sử người dùng và trạng thái
